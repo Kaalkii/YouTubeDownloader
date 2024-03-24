@@ -1,0 +1,9 @@
+1.Python3 must be installed.
+2.To install dependent modules run = pip install -r requirements.txt
+
+To run on Windows 
+run.bat
+
+For Linux 
+python3 main.py
+
